@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.sidebar_chat {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 20px;
+  border-bottom: 3px solid #ccc;
+}
+.sidebar_chat:hover {
+  background-color: whitesmoke;
+}
+.sidebar_chat > .MuiAvatar-root {
+  height: 3.5rem;
+  width: 3.5rem;
+}
+.chat_info {
+  margin-left: 10px;
+}
+.chat_info > h2 {
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+.message_last p {
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  overflow-wrap: anywhere;
+}
