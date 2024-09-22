@@ -2,14 +2,14 @@
 
 #### Sign In
 
-<img width="1342" alt="Screenshot 2024-09-22 at 2 17 43 PM" src="https://github.com/user-attachments/assets/148b988d-19db-4580-bbec-77088d4ed99f">
+<img width="1342" alt="whats-app-login" src="https://github.com/user-attachments/assets/8913f7ac-e112-465a-98d1-1669839a5f35">
 
 ### Chat in Existing rooms.
 
-<img width="1792" alt="Screenshot 2024-09-22 at 2 19 41 PM" src="https://github.com/user-attachments/assets/1d7921d5-e220-4a58-a8a8-aae817f6e898">
+<img width="1792" alt="chat-existing-room" src="https://github.com/user-attachments/assets/1b928220-73b3-4118-808f-e79a8c14fed9">
 
 #### Create New Rooms
 
-<img width="1792" alt="image" src="https://github.com/user-attachments/assets/6bbc639a-6955-4b0f-9e1b-4a752936956c">
+<img width="1792" alt="create-new-rooms" src="https://github.com/user-attachments/assets/ec3df6d1-b62e-4462-9525-550879f75502">
 
 ### Leave your thoughts, :)
